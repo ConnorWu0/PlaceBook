@@ -10,4 +10,10 @@
     <string name="notes">Notes</string>
     <string name="enter_notes">Enter notes</string>
     <string name="save">Save</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="category">Category</string>
+    <string name="delete">Delete</string>
+    <string name="placebook">PlaceBook</string>
+    <string name="raywenderlich_com">raywenderlich.com</string>
 </resources>

@@ -4,8 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/layout/activity_bookmark_details.xml" value="0.2" />
+        <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/layout/activity_maps.xml" value="0.264" />
+        <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/layout/bookmark_item.xml" value="0.12360688956433637" />
         <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/layout/content_bookmark_info.xml" value="0.2" />
+        <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/layout/drawer_view_maps.xml" value="0.4090909090909091" />
+        <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/layout/main_view_maps.xml" value="0.12360688956433637" />
         <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/menu/menu.xml" value="0.12291666666666666" />
+        <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/menu/menu_bookmark_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android Apps/PlaceBook/app/src/main/res/xml/file_paths.xml" value="0.10371376811594203" />
       </map>
     </option>
   </component>
