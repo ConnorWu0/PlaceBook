@@ -11,6 +11,8 @@ Tap the bottom-right icon, you can search for a location.
 ![Search for a location](https://github.com/ConnorWuProjects/PlaceBook/blob/master/screenshots/Search%20for%20a%20location.png)  
 Tap the location you saved, then tap the photo of it, you can edit the information of it.  
 ![Edit the location](https://github.com/ConnorWuProjects/PlaceBook/blob/master/screenshots/Edit%20the%20location.png)  
+Tap the photo, you can change the photo.  
+![Change the photo](https://github.com/ConnorWuProjects/PlaceBook/blob/master/screenshots/Change%20the%20location.png)  
 Tap the trash can icon, you can delete the bookmark. Tap the arrow icon, you can save the information you edit. 
 Tap the bottom-right icon, you can share the location.  
 
